@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a071ccc0-eec3-4c96-b895-d217c62c7522" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-    </list>
+    <list default="true" id="a071ccc0-eec3-4c96-b895-d217c62c7522" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,23 +10,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="289" column="43" lean-forward="true" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="43" />
+            <state relative-caret-position="156">
+              <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-855" />
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class=&quot;foo</find>
+      <find>home</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +34,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/services.html" />
       </list>
     </option>
   </component>
@@ -51,10 +49,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-603" />
-    <option name="y" value="127" />
+    <option name="x" value="-337" />
+    <option name="y" value="238" />
     <option name="width" value="1382" />
-    <option name="height" value="683" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -76,6 +74,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -103,15 +102,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565596078069</updated>
-      <workItem from="1565596081735" duration="247000" />
+      <workItem from="1565596081735" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247000" />
+    <option name="totallyTimeSpent" value="608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-107" y="217" width="1382" height="683" extended-state="0" />
+    <frame x="-15" y="289" width="1382" height="683" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -143,14 +142,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="289" column="43" lean-forward="true" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="43" />
+        <state relative-caret-position="-95">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-855" />
+        <state relative-caret-position="156">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+        </state>
       </provider>
     </entry>
   </component>
