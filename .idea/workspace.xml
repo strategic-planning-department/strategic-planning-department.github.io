@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a071ccc0-eec3-4c96-b895-d217c62c7522" name="Default Changelist" comment="" />
+    <list default="true" id="a071ccc0-eec3-4c96-b895-d217c62c7522" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/qrcode.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/qrcode.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -40,9 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="343" />
-    <option name="y" value="355" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-315" />
+    <option name="y" value="197" />
     <option name="width" value="1382" />
     <option name="height" value="719" />
   </component>
@@ -106,16 +109,17 @@
       <updated>1565596078069</updated>
       <workItem from="1565596081735" duration="7098000" />
       <workItem from="1565608730376" duration="10590000" />
+      <workItem from="1565667784990" duration="251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17688000" />
+    <option name="totallyTimeSpent" value="17939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="343" y="355" width="1382" height="719" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -151,15 +155,8 @@
     <entry file="file://$PROJECT_DIR$/images/s2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/banner.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/banner(before).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/null.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/banner.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/banner(before).jpg" />
     <entry file="file://$PROJECT_DIR$/images/stats1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -266,6 +263,15 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/aim.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/null.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/qrcode.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
